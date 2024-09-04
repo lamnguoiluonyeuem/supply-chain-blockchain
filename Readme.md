@@ -26,8 +26,6 @@
 
 ## Yêu cầu cài đặt
 
-+ Để chạy dự án, cần cài đặt các thư viện Python sau
-
 1. Cài đặt các thư viện cần thiết
 + Cryptography: Thư viện cho chữ ký số và mã hóa.
 + Flask: Thư viện để xây dựng API
