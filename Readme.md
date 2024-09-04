@@ -64,6 +64,11 @@ pip install -r requirements.txt
 python3 main.py
 ```
 + Chạy API
+
+## Tài Liệu
+
+1. https://hbr.org/2020/05/using-blockchain-to-improve-supply-chain-management
+2. https://www.sciencedirect.com/science/article/pii/S0260877419301405
 ```
 python3 app.py
 ```
